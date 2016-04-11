@@ -21,5 +21,5 @@ module.exports = (robot) ->
     robot.hear /lenny/i, (msg) ->
         response.send "( ͡° ͜ʖ ͡°)"
 
-    robot.header /disapproval/i, (msg) ->
+    robot.hear /disapproval/i, (msg) ->
         response.send "ಠ_ಠ"

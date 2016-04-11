@@ -16,10 +16,10 @@
 module.exports = (robot) ->
 
     robot.hear /shrug/i, (msg) ->
-        response.send "¯\_(ツ)_/¯"
+        msg.send "¯\_(ツ)_/¯"
 
     robot.hear /lenny/i, (msg) ->
-        response.send "( ͡° ͜ʖ ͡°)"
+        msg.send "( ͡° ͜ʖ ͡°)"
 
     robot.hear /disapproval/i, (msg) ->
-        response.send "ಠ_ಠ"
+        msg.send "ಠ_ಠ"

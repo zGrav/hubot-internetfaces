@@ -1,0 +1,19 @@
+{
+  "name": "hubot-internetfaces",
+  "version": "1.0.0",
+  "description": "all the faces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zGrav/hubot-internetfaces.git"
+  },
+  "author": "David Silva <zgrav@go.su>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zGrav/hubot-internetfaces/issues"
+  },
+  "homepage": "https://github.com/zGrav/hubot-internetfaces#readme"
+}

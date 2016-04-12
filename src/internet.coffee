@@ -16,7 +16,7 @@
 module.exports = (robot) ->
 
     robot.hear /shrug/i, (msg) ->
-        msg.send "¯\_(ツ)_/¯"
+        msg.send "¯\\_(ツ)_/¯"
 
     robot.hear /lenny/i, (msg) ->
         msg.send "( ͡° ͜ʖ ͡°)"

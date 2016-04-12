@@ -1,6 +1,6 @@
 {
   "name": "hubot-internetfaces",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "all the faces",
   "main": "index.js",
   "scripts": {
